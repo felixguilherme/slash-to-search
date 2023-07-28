@@ -1,0 +1,11 @@
+{
+	"name": "Slash to Search",
+	"description": "Slash to search is a browser extension which aims to improve your efficiency providing you a way to focus search inputs with your keyboard",
+	"version": "1.0",
+	"manifest_version": 3,
+	"permissions": ["tabs", "scripting"],
+	"background": {
+		"service_worker": "background.js"
+	},
+	"host_permissions": ["*://*/*"]
+}

@@ -2,7 +2,7 @@
 
 ## 💡 About
 
-Slash to search is a browser extension which aims to improve your efficiency providing you a way to focus search inputs with your keyboard.
+Slash to Search is a browser extension which aims to improve your efficiency providing you a way to focus search inputs with your keyboard.
 
 ## ⚙ Technologies Used
 
@@ -19,9 +19,10 @@ Only manual installation is possible for now.
 To install the extension, follow these steps:
 
 1. Clone or download the repository (remember to extract the ZIP file if you downloaded it)
-1. Open your browser and go to the menu, then select 'Extensions' > 'Manage Extensions'.
-1. Enable 'Developer mode' by toggling the switch in the top right corner.
-1. Click on 'Load unpacked' and select the directory that contains the extension files.
+2. Build the extension using `pnpm run build`.
+3. Open your browser and go to the menu, then select 'Extensions' > 'Manage Extensions'.
+4. Enable 'Developer mode' by toggling the switch in the top right corner.
+5. Click on 'Load unpacked' and select the `dist` directory.
 
 ### Firefox, Safari and other browsers
 

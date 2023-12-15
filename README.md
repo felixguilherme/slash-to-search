@@ -2,7 +2,7 @@
 
 ## 💡 About
 
-Slash to Search is a browser extension which aims to improve your efficiency providing you a way to focus search inputs with your keyboard.
+Slash to Search is a browser extension which aims to improve your browsing efficiency by providing you a way to focus search inputs with your keyboard.
 
 ## ⚙ Technologies Used
 
